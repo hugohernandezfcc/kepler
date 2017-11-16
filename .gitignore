@@ -11,15 +11,11 @@ bower_components/
 bootstrap/compiled.php
 bootstrap/cache/
 
-storage/
-storage/debugbar/
-storage/framework/views/
-storage/framework/sessions/
 
 composer.phar
 phpunit.phar
 
-public/assets
+
 
 .env
 .env.*.php
