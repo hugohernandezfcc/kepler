@@ -20,7 +20,6 @@ composer.phar
 phpunit.phar
 
 public/assets
-public/mix-manifest.json
 
 .env
 .env.*.php
