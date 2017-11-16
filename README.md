@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -199,3 +200,7 @@ For bugs, questions and discussions please use the [GitHub Issues](https://githu
 ## License
 
 This boilerplate is open-sourced software licensed under the [MIT license](LICENSE).
+=======
+# kepler
+System addressed to lifecycle management of scholarly courses 
+>>>>>>> 6cd3bab65396e54a40dfdab81086937b96151ff1
